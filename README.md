@@ -1,0 +1,2 @@
+大模型使用的是讯飞平台的Spark Ultra-32K,密钥需要写到环境变量里面
+需要测试或使用在pycharm终端输入python main.py,打开fastapi自动生成的接口文档使用
